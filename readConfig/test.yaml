@@ -1,0 +1,5 @@
+DB_COLUMNS:
+  - "cat"
+  - "dog"
+
+DB_CONNECTION: "localhost:3600"
